@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Book Hub</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="about">Book Hub app is platform which contains collection of books.In this you can read about various books that appear in the dashboard and you can add them to your favourites section if you like those.
+        \n\nOur app features a clean reading experience designed to let you focus on the story (without an ad in sight) wherever you are, from your commute to your couch.
+        \n\nThis app is made as a project for 30 days of Kotlin campaign and includes various kotlin concepts.
+\n\nThank you!\n\nHappy learning!</string>
+
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_fragment">About Fragment</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="action_sort">Sort</string>
+    <string name="preference_file_name">BookHub Preferences</string>
+
+</resources>
