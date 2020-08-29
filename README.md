@@ -1,6 +1,6 @@
 # Book Hub App
 
-Book Hub app contains collection of books. In this you can read the breif description of various books that appear in the dashboard and you can add them to your favorites section if you like those.
+This app displays the list of popular books. You can see the full description of each book. You can also add books to favourites.
 
 This app is developed using kotlin language with various concepts.
 
